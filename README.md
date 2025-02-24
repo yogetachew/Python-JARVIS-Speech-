@@ -8,4 +8,3 @@ A Python-based voice assistant that uses **Speech Recognition**, **Text-to-Speec
 - 🌍 **Wikipedia Integration** – Fetches summaries from Wikipedia.  
 - 📝 **Command Execution** – Can respond to custom commands like saying your name or quitting the program.
 
-## Project Structure  
